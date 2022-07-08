@@ -1,0 +1,88 @@
+{
+  "main": {
+    "id": "deecc89316df644b",
+    "type": "split",
+    "children": [
+      {
+        "id": "db3953bf3bc1497a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "biology/general_biology/화학과 세포.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae2de239c352bed5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "743deb2df2ed73b4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "0d5daa9724fba419",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0c55fdec31662ea5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bddcf4464153764c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "biology/general_biology/화학과 세포.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "db3953bf3bc1497a",
+  "lastOpenFiles": [
+    "biology/general_biology/화학과 세포.md",
+    "biology/general_biology/Contents.md",
+    "biology/general_biology/유전학.md",
+    "chemistry/general_chemistry/화학 결합과 오비탈.md",
+    "chemistry/general_chemistry/원자 구조와 주기성.md",
+    "chemistry/general_chemistry/Contents.md",
+    "chemistry/general_chemistry/화학량론.md",
+    "chemistry/general_chemistry/원자, 분자와 이온.md",
+    "Books/세상에서 가장 재미있는 생물학.md",
+    "practice.md"
+  ]
+}
