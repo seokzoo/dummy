@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "biology/general_biology/화학과 세포.md",
+            "file": "biology/general_biology/유전학.md",
             "mode": "source",
             "source": false
           }
@@ -58,7 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "biology/general_biology/화학과 세포.md",
+            "file": "biology/general_biology/유전학.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -74,15 +74,15 @@
   },
   "active": "db3953bf3bc1497a",
   "lastOpenFiles": [
-    "biology/general_biology/화학과 세포.md",
-    "biology/general_biology/Contents.md",
     "biology/general_biology/유전학.md",
-    "chemistry/general_chemistry/화학 결합과 오비탈.md",
-    "chemistry/general_chemistry/원자 구조와 주기성.md",
+    "chemistry/general_chemistry/액체, 고체, 기체.md",
     "chemistry/general_chemistry/Contents.md",
-    "chemistry/general_chemistry/화학량론.md",
+    "chemistry/general_chemistry/화학 결합과 오비탈.md",
+    "biology/general_biology/화학과 세포.md",
     "chemistry/general_chemistry/원자, 분자와 이온.md",
-    "Books/세상에서 가장 재미있는 생물학.md",
-    "practice.md"
+    "chemistry/general_chemistry/원자 구조와 주기성.md",
+    "biology/general_biology/Contents.md",
+    "chemistry/general_chemistry/화학량론.md",
+    "Books/세상에서 가장 재미있는 생물학.md"
   ]
 }
