@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "biology/general_biology/유전학.md",
+            "file": "chemistry/general_chemistry/액체, 고체, 기체.md",
             "mode": "source",
             "source": false
           }
@@ -58,7 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "biology/general_biology/유전학.md",
+            "file": "chemistry/general_chemistry/액체, 고체, 기체.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -74,8 +74,8 @@
   },
   "active": "db3953bf3bc1497a",
   "lastOpenFiles": [
-    "biology/general_biology/유전학.md",
     "chemistry/general_chemistry/액체, 고체, 기체.md",
+    "biology/general_biology/유전학.md",
     "chemistry/general_chemistry/Contents.md",
     "chemistry/general_chemistry/화학 결합과 오비탈.md",
     "biology/general_biology/화학과 세포.md",
